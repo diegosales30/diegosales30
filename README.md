@@ -17,7 +17,7 @@
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Next-js" height="30" width="40" src="https://icongr.am/simple/nextjs.svg?size=128&color=currentColor&colored=false">
+  <img align="center" alt="Next-js" height="30" width="40" src="https://icongr.am/simple/nextjs.svg?size=128&color=eeeeec&colored=false">
   <img align="center" alt="styled" height="30" width="40" src="https://icongr.am/simple/styledcomponents.svg?size=128&color=5c3566&colored=false">
   </div>
   
