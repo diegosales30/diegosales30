@@ -22,6 +22,7 @@
   <img align="center" alt="Next-js" height="30" width="40" src="https://icongr.am/simple/nextjs.svg?size=128&color=eeeeec&colored=false">
   <img align="center" alt="styled" height="30" width="40" src="https://icongr.am/simple/styledcomponents.svg?size=128&color=5c3566&colored=false">
   <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
+  
  
   </div>
   <div align="center">
@@ -31,6 +32,9 @@
   <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ea2e2f?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20boot-6fb440?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
@@ -41,7 +45,8 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-ea2e2f?style=for-the-badge&logo=java&logoColor=white"/>
+  
+  
   
 
   <h2> ✍️ Estou aprendendo </h2>
