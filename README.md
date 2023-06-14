@@ -22,6 +22,8 @@
   <img align="center" alt="Next-js" height="30" width="40" src="https://icongr.am/simple/nextjs.svg?size=128&color=eeeeec&colored=false">
   <img align="center" alt="styled" height="30" width="40" src="https://icongr.am/simple/styledcomponents.svg?size=128&color=5c3566&colored=false">
   <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
+  <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/simple/spring.svg?size=128&color=35e02c&colored=false">
   
  
   </div>
