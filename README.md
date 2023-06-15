@@ -12,8 +12,7 @@
 </div>
 <div>
 <a href="https://github.com/diegosales30">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosales30&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosales30&hide_progress=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosales30&hide_progress=true&langs_count=7&theme=dracula"/>
 </div>
   
 <div align="center"><br>
