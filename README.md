@@ -24,7 +24,6 @@
   <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="sass" height="30" width="40" src="https://icongr.am/simple/spring.svg?size=128&color=35e02c&colored=false">
   
- 
   </div>
   <div align="center">
   <h2> 🖥️ Hard skills</h2>
