@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=ffffff&style=for-the-badge" />
+  
   <!-- 
   <img src="https://img.shields.io/badge/JAVA-ea2e2f?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20boot-6fb440?style=for-the-badge&logo=spring&logoColor=white"/>
