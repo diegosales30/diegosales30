@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-
   <!-- 
   <img src="https://img.shields.io/badge/JAVA-ea2e2f?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20boot-6fb440?style=for-the-badge&logo=spring&logoColor=white"/>
