@@ -19,7 +19,7 @@
   <img align="center" alt="Next-js" height="30" width="40" src="https://icongr.am/simple/nextjs.svg?size=128&color=eeeeec&colored=false">
   <img align="center" alt="styled" height="30" width="40" src="https://icongr.am/simple/styledcomponents.svg?size=128&color=5c3566&colored=false">
 </div>
-  
+
 <div align="center">
   <h2> 🖥️ Hard skills</h2>
   <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
