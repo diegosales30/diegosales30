@@ -1,4 +1,4 @@
-<h2 align="center">Olá, seja bem-vindo!</h2>
+<h2 align="center">Seja bem-vindo!</h2>
 <!-- <div align="center"> 
   <a href="https://www.instagram.com/felip.codes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegofelipesales23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -21,7 +21,7 @@
   <img align="center" alt="styled" height="30" width="40" src="https://icongr.am/simple/styledcomponents.svg?size=128&color=5c3566&colored=false">
 </div> -->
 <div align="center">
-  <h2> 🖥️ Hard skills</h2>
+  <h2>Hard skills</h2>
 <!--   <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
